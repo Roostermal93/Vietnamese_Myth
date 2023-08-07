@@ -1,14 +1,35 @@
 {
-    "count": 3,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "b2f8d8fb-3d37-4ae2-b34f-c51cd08df1c4",
+            "collectionId": "Vietnamese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Vietnamese/b2f8d8fb-3d37-4ae2-b34f-c51cd08df1c4_vi_Female.mp4"
+        },
         {
             "id": "7fdf5585-19e9-4863-82ea-0158f2a25c9d",
             "collectionId": "Vietnamese",
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Vietnamese/7fdf5585-19e9-4863-82ea-0158f2a25c9d_vi_Female.mp4"
+        },
+        {
+            "id": "52571aa0-f7eb-4a6f-8856-d6d6848a1ee0",
+            "collectionId": "Vietnamese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Vietnamese/52571aa0-f7eb-4a6f-8856-d6d6848a1ee0_vi_Male.mp4"
+        },
+        {
+            "id": "d9b109dd-e760-414d-a363-6205333cb018",
+            "collectionId": "Vietnamese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Vietnamese/d9b109dd-e760-414d-a363-6205333cb018_vi_Female.mp4"
         },
         {
             "id": "b68a2e52-a324-41c9-82aa-301b6c9d6ab6",
